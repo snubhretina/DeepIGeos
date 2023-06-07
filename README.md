@@ -7,6 +7,9 @@ Implementation the DeepIGeoS Paper
 ## 👨🏻‍💻 Contributors
 [이영석](https://github.com/younnggsuk), [이주호](https://github.com/wngh577), [이준호](https://github.com/junhoning), [정경중](https://github.com/KyeongJoong), [손소연](https://github.com/soyounson), [조현우](https://github.com/hwcho1130)
 
+## 👨🏻‍💻 Contributors for fundus image segmentation thanks for contributor
+[김주영](https://github.com/gamju)
+
 ## :mag: Prerequisites
 Please check environments and requirements before you start. If required, we recommend you to either upgrade versions or install them for smooth running.
 
